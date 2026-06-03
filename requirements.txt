@@ -1,1 +1,9 @@
-
+qiskit
+qiskit-aer
+cirq
+pennylane
+qutip
+qulacs
+numpy
+pandas
+matplotlib
